@@ -1,0 +1,201 @@
+Booking ID,Customer Name,Age Group,City,Package Type,Booking Date,Travel Date,Destination,No of Travellers,Package Cost,Discount Applied,Final Revenue,Payment Mode,Agent Name,Branch City,Season,Customer Rating (1-5)
+BK0001,Customer_001,26-35,Delhi,Flight,2024-03-12,2024-02-22,Maldives,6,41048,4012,37036,Cash,Ravi Kumar,Delhi,Off-Peak,1.1
+BK0002,Customer_002,60+,Delhi,Flight,2024-01-14,2024-10-14,Manali,6,35495,8279,27216,Cash,Sunita Rao,Delhi,Peak,2.8
+BK0003,Customer_003,46-60,Bengaluru,Flight,2024-06-23,2024-05-22,Rajasthan,2,25926,5719,20207,UPI,Ravi Kumar,Bengaluru,Peak,2.5
+BK0004,Customer_004,46-60,Hyderabad,Hotel,2024-10-01,2024-03-04,Ooty,1,39671,711,38960,Cash,Arjun Mehta,Hyderabad,Off-Peak,3.3
+BK0005,Customer_005,18-25,Delhi,Flight,2024-04-29,2024-02-21,Ooty,3,34871,4741,30130,Net Banking,Deepa Nair,Delhi,Off-Peak,1.7
+BK0006,Customer_006,18-25,Hyderabad,Flight,2024-11-07,2024-11-21,Rajasthan,5,39993,11498,28495,Debit Card,Priya S,Hyderabad,Off-Peak,2.5
+BK0007,Customer_007,18-25,Kolkata,Combo,2024-04-27,2024-01-17,Leh,4,47504,13809,33695,UPI,Ravi Kumar,Kolkata,Peak,4.7
+BK0008,Customer_008,46-60,Hyderabad,Flight,2024-03-14,2024-05-15,Rajasthan,2,70435,12964,57471,Cash,Kiran Das,Hyderabad,Off-Peak,4
+BK0009,Customer_009,26-35,Pune,Combo,2024-03-11,2024-09-17,Shimla,1,57350,11861,45489,Credit Card,Ravi Kumar,Pune,Peak,3.5
+BK0010,Customer_010,46-60,Pune,Combo,2024-11-01,2024-08-27,Dubai,3,13326,1576,11750,Cash,Ravi Kumar,Pune,Peak,3.7
+BK0011,Customer_011,36-45,Bengaluru,Combo,2024-08-10,2024-03-21,Shimla,1,49587,1827,47760,UPI,Kiran Das,Bengaluru,Peak,3
+BK0012,Customer_012,60+,Delhi,Combo,2024-11-07,2024-04-11,Rajasthan,3,44117,10468,33649,Debit Card,Kiran Das,Delhi,Peak,3.4
+BK0013,Customer_013,36-45,Ahmedabad,Flight,2024-05-02,2024-01-30,Manali,5,19662,2973,16689,Credit Card,Ravi Kumar,Ahmedabad,Off-Peak,4.3
+BK0014,Customer_014,26-35,Chennai,Flight,2024-05-15,2024-09-27,Singapore,4,67296,18015,49281,Debit Card,Kiran Das,Chennai,Peak,3.9
+BK0015,Customer_015,60+,Pune,Combo,2024-08-19,2024-03-02,Manali,2,53944,7177,46767,Credit Card,Arjun Mehta,Pune,Peak,3.4
+BK0016,Customer_016,18-25,Kolkata,Combo,2024-12-28,2024-11-19,Goa,2,33864,117,33747,Credit Card,Ravi Kumar,Kolkata,Off-Peak,1.3
+BK0017,Customer_017,60+,Kolkata,Hotel,2024-03-08,2024-10-19,Singapore,4,68624,7020,61604,Debit Card,Sunita Rao,Kolkata,Off-Peak,1.8
+BK0018,Customer_018,46-60,Delhi,Combo,2024-07-29,2024-08-27,Bangkok,1,61498,11609,49889,Credit Card,Ravi Kumar,Delhi,Off-Peak,3.9
+BK0019,Customer_019,60+,Delhi,Flight,2024-08-17,2024-03-12,Ooty,2,30112,3116,26996,UPI,Sunita Rao,Delhi,Peak,4.5
+BK0020,Customer_020,18-25,Delhi,Hotel,2024-11-29,2024-10-03,Goa,1,77132,3208,73924,Debit Card,Priya S,Delhi,Off-Peak,2.9
+BK0021,Customer_021,46-60,Kolkata,Hotel,2024-01-02,2024-07-18,Andaman,4,12685,674,12011,UPI,Sunita Rao,Kolkata,Off-Peak,1.6
+BK0022,Customer_022,60+,Bengaluru,Flight,2024-02-01,2024-06-09,Goa,1,12665,2372,10293,Cash,Sunita Rao,Bengaluru,Peak,1.2
+BK0023,Customer_023,26-35,Delhi,Flight,2024-07-25,2024-03-02,Singapore,2,13981,556,13425,Cash,Kiran Das,Delhi,Peak,3.5
+BK0024,Customer_024,36-45,Pune,Combo,2024-05-13,2024-04-14,Maldives,6,79085,17130,61955,UPI,Priya S,Pune,Off-Peak,2.6
+BK0025,Customer_025,18-25,Bengaluru,Hotel,2024-01-05,2024-08-22,Singapore,5,46441,12318,34123,Credit Card,Ravi Kumar,Bengaluru,Peak,3
+BK0026,Customer_026,36-45,Chennai,Hotel,2024-05-25,2024-03-21,Shimla,5,14016,2001,12015,UPI,Kiran Das,Chennai,Peak,3.7
+BK0027,Customer_027,36-45,Bengaluru,Combo,2024-02-29,2024-02-24,Bangkok,5,18577,1100,17477,Debit Card,Arjun Mehta,Bengaluru,Off-Peak,3.4
+BK0028,Customer_028,46-60,Hyderabad,Flight,2024-05-08,2024-01-27,Kerala,6,39600,8280,31320,Net Banking,Arjun Mehta,Hyderabad,Peak,1
+BK0029,Customer_029,46-60,Chennai,Combo,2024-10-09,2024-12-27,Ooty,5,39335,2647,36688,Credit Card,Ravi Kumar,Chennai,Peak,4.8
+BK0030,Customer_030,60+,Chennai,Combo,2024-10-09,2024-03-16,Ooty,2,9722,1512,8210,Credit Card,Arjun Mehta,Chennai,Off-Peak,4.6
+BK0031,Customer_031,18-25,Mumbai,Hotel,2024-06-30,2024-10-13,Ooty,5,32535,4088,28447,Debit Card,Priya S,Mumbai,Peak,4.9
+BK0032,Customer_032,36-45,Chennai,Hotel,2024-07-29,2024-12-08,Bangkok,2,8248,734,7514,UPI,Priya S,Chennai,Peak,2.5
+BK0033,Customer_033,46-60,Mumbai,Hotel,2024-06-28,2024-06-05,Manali,2,34154,3269,30885,Credit Card,Deepa Nair,Mumbai,Peak,2.6
+BK0034,Customer_034,60+,Bengaluru,Flight,2024-07-23,2024-12-13,Dubai,3,41585,5753,35832,Credit Card,Ravi Kumar,Bengaluru,Off-Peak,1.7
+BK0035,Customer_035,46-60,Bengaluru,Flight,2024-06-25,2024-06-09,Ooty,5,19208,4887,14321,Cash,Ravi Kumar,Bengaluru,Off-Peak,4.6
+BK0036,Customer_036,46-60,Kolkata,Hotel,2024-01-01,2024-09-23,Dubai,6,10817,2903,7914,Debit Card,Arjun Mehta,Kolkata,Off-Peak,1.3
+BK0037,Customer_037,18-25,Hyderabad,Combo,2024-06-02,2024-09-16,Andaman,6,46145,10868,35277,Net Banking,Arjun Mehta,Hyderabad,Off-Peak,3.8
+BK0038,Customer_038,26-35,Chennai,Flight,2024-11-11,2024-10-18,Andaman,4,60108,12423,47685,Cash,Ravi Kumar,Chennai,Off-Peak,2.1
+BK0039,Customer_039,46-60,Pune,Combo,2024-08-14,2024-12-11,Manali,5,47237,7618,39619,Net Banking,Deepa Nair,Pune,Peak,3.6
+BK0040,Customer_040,26-35,Bengaluru,Combo,2024-12-10,2024-06-07,Manali,2,48933,1530,47403,Debit Card,Ravi Kumar,Bengaluru,Peak,2
+BK0041,Customer_041,46-60,Ahmedabad,Combo,2024-11-18,2024-10-21,Manali,6,14545,3730,10815,Net Banking,Sunita Rao,Ahmedabad,Off-Peak,2
+BK0042,Customer_042,26-35,Mumbai,Flight,2024-12-22,2024-09-22,Shimla,1,60724,7170,53554,Cash,Priya S,Mumbai,Peak,2.8
+BK0043,Customer_043,60+,Ahmedabad,Combo,2024-06-11,2024-08-14,Singapore,6,74616,18314,56302,Cash,Sunita Rao,Ahmedabad,Off-Peak,4.6
+BK0044,Customer_044,36-45,Ahmedabad,Hotel,2024-09-23,2024-09-05,Maldives,2,38972,4050,34922,UPI,Sunita Rao,Ahmedabad,Peak,3.9
+BK0045,Customer_045,60+,Kolkata,Hotel,2024-02-11,2024-03-11,Rajasthan,2,49020,5238,43782,Net Banking,Deepa Nair,Kolkata,Peak,3.8
+BK0046,Customer_046,60+,Delhi,Hotel,2024-08-26,2024-07-31,Goa,2,58424,10842,47582,Net Banking,Sunita Rao,Delhi,Peak,4.4
+BK0047,Customer_047,36-45,Pune,Hotel,2024-07-18,2024-08-02,Dubai,6,5772,720,5052,Cash,Kiran Das,Pune,Peak,3
+BK0048,Customer_048,46-60,Bengaluru,Hotel,2024-06-21,2024-12-08,Maldives,4,68654,951,67703,Debit Card,Sunita Rao,Bengaluru,Peak,4.9
+BK0049,Customer_049,18-25,Mumbai,Hotel,2024-02-12,2024-11-25,Ooty,2,78975,21725,57250,Net Banking,Priya S,Mumbai,Peak,2
+BK0050,Customer_050,36-45,Hyderabad,Flight,2024-07-13,2024-05-22,Ooty,3,64598,10710,53888,Credit Card,Sunita Rao,Hyderabad,Peak,4
+BK0051,Customer_051,18-25,Mumbai,Hotel,2024-01-16,2024-05-06,Manali,1,34389,1124,33265,Cash,Priya S,Mumbai,Peak,1.5
+BK0052,Customer_052,36-45,Delhi,Combo,2024-07-07,2024-03-26,Singapore,5,33569,7619,25950,Credit Card,Priya S,Delhi,Off-Peak,1.4
+BK0053,Customer_053,26-35,Mumbai,Hotel,2024-02-08,2024-10-30,Bangkok,6,54192,6498,47694,Debit Card,Ravi Kumar,Mumbai,Off-Peak,4.4
+BK0054,Customer_054,60+,Delhi,Combo,2024-08-07,2024-12-04,Leh,1,10383,1422,8961,Cash,Deepa Nair,Delhi,Off-Peak,1.1
+BK0055,Customer_055,36-45,Pune,Hotel,2024-11-21,2024-08-23,Bangkok,2,18833,3551,15282,Net Banking,Priya S,Pune,Off-Peak,3.5
+BK0056,Customer_056,36-45,Ahmedabad,Hotel,2024-05-05,2024-02-14,Andaman,4,62091,8794,53297,Debit Card,Sunita Rao,Ahmedabad,Off-Peak,2.3
+BK0057,Customer_057,26-35,Ahmedabad,Hotel,2024-06-30,2024-05-12,Leh,3,28834,7988,20846,Cash,Deepa Nair,Ahmedabad,Off-Peak,3.2
+BK0058,Customer_058,46-60,Kolkata,Flight,2024-10-11,2024-05-03,Bangkok,4,36635,6658,29977,Net Banking,Sunita Rao,Kolkata,Peak,1.4
+BK0059,Customer_059,60+,Kolkata,Hotel,2024-07-07,2024-08-30,Dubai,5,36890,5016,31874,UPI,Sunita Rao,Kolkata,Off-Peak,2.4
+BK0060,Customer_060,26-35,Ahmedabad,Hotel,2024-03-02,2024-04-08,Leh,1,45189,4118,41071,Cash,Deepa Nair,Ahmedabad,Peak,1.8
+BK0061,Customer_061,36-45,Ahmedabad,Hotel,2024-02-21,2024-04-09,Andaman,2,73765,19555,54210,UPI,Priya S,Ahmedabad,Off-Peak,1.1
+BK0062,Customer_062,60+,Chennai,Hotel,2024-05-29,2024-12-23,Rajasthan,6,10965,223,10742,Net Banking,Ravi Kumar,Chennai,Peak,3.3
+BK0063,Customer_063,26-35,Ahmedabad,Hotel,2024-01-27,2024-05-09,Shimla,1,62733,11164,51569,Credit Card,Sunita Rao,Ahmedabad,Off-Peak,1.3
+BK0064,Customer_064,60+,Mumbai,Flight,2024-06-04,2024-02-13,Manali,1,24555,6644,17911,Cash,Sunita Rao,Mumbai,Peak,4.1
+BK0065,Customer_065,60+,Pune,Hotel,2024-08-07,2024-06-05,Singapore,5,63028,9743,53285,Credit Card,Kiran Das,Pune,Peak,4.8
+BK0066,Customer_066,18-25,Kolkata,Combo,2024-03-21,2024-05-02,Rajasthan,5,32659,4335,28324,Credit Card,Priya S,Kolkata,Peak,2.6
+BK0067,Customer_067,36-45,Ahmedabad,Hotel,2024-12-27,2024-05-24,Bangkok,4,9278,948,8330,Credit Card,Deepa Nair,Ahmedabad,Peak,4.7
+BK0068,Customer_068,26-35,Kolkata,Hotel,2024-11-27,2024-03-17,Andaman,2,20043,4461,15582,Credit Card,Ravi Kumar,Kolkata,Peak,4.2
+BK0069,Customer_069,36-45,Bengaluru,Hotel,2024-12-24,2024-07-25,Andaman,5,21299,3839,17460,Cash,Sunita Rao,Bengaluru,Off-Peak,1.3
+BK0070,Customer_070,36-45,Mumbai,Hotel,2024-01-14,2024-02-16,Manali,6,47247,9891,37356,Cash,Kiran Das,Mumbai,Peak,5
+BK0071,Customer_071,46-60,Bengaluru,Combo,2024-09-22,2024-11-29,Shimla,3,10273,717,9556,Debit Card,Kiran Das,Bengaluru,Off-Peak,3.5
+BK0072,Customer_072,46-60,Ahmedabad,Flight,2024-06-19,2024-06-13,Maldives,1,66605,11401,55204,Debit Card,Arjun Mehta,Ahmedabad,Off-Peak,3.8
+BK0073,Customer_073,46-60,Bengaluru,Combo,2024-02-15,2024-06-10,Andaman,3,57488,1202,56286,Credit Card,Sunita Rao,Bengaluru,Peak,3.6
+BK0074,Customer_074,60+,Ahmedabad,Hotel,2024-07-04,2024-11-14,Shimla,6,12104,768,11336,Net Banking,Ravi Kumar,Ahmedabad,Peak,2.1
+BK0075,Customer_075,18-25,Chennai,Hotel,2024-01-15,2024-11-18,Singapore,2,62424,15883,46541,Debit Card,Arjun Mehta,Chennai,Peak,3.2
+BK0076,Customer_076,18-25,Delhi,Flight,2024-11-27,2024-03-19,Shimla,6,19871,3780,16091,UPI,Kiran Das,Delhi,Off-Peak,2.7
+BK0077,Customer_077,60+,Ahmedabad,Hotel,2024-03-15,2024-07-15,Manali,5,36946,7483,29463,Cash,Deepa Nair,Ahmedabad,Peak,4.5
+BK0078,Customer_078,60+,Bengaluru,Hotel,2024-05-16,2024-01-02,Andaman,6,49548,12905,36643,UPI,Kiran Das,Bengaluru,Off-Peak,4.5
+BK0079,Customer_079,36-45,Ahmedabad,Combo,2024-10-09,2024-10-05,Ooty,4,68483,11309,57174,UPI,Priya S,Ahmedabad,Peak,3.3
+BK0080,Customer_080,46-60,Kolkata,Hotel,2024-12-27,2024-07-14,Ooty,6,10720,1303,9417,Debit Card,Sunita Rao,Kolkata,Peak,1.5
+BK0081,Customer_081,60+,Hyderabad,Flight,2024-08-21,2024-01-08,Bangkok,2,62711,3267,59444,Net Banking,Deepa Nair,Hyderabad,Peak,1.3
+BK0082,Customer_082,36-45,Bengaluru,Hotel,2024-12-11,2024-09-30,Ooty,3,57098,2631,54467,Net Banking,Kiran Das,Bengaluru,Peak,3.5
+BK0083,Customer_083,18-25,Kolkata,Combo,2024-08-10,2024-02-20,Maldives,6,42667,3727,38940,Credit Card,Sunita Rao,Kolkata,Peak,3.8
+BK0084,Customer_084,18-25,Mumbai,Flight,2024-05-30,2024-07-02,Leh,4,47516,13044,34472,Debit Card,Priya S,Mumbai,Off-Peak,3.3
+BK0085,Customer_085,60+,Chennai,Flight,2024-07-14,2024-11-13,Maldives,2,27946,1293,26653,Net Banking,Kiran Das,Chennai,Peak,1.9
+BK0086,Customer_086,18-25,Bengaluru,Hotel,2024-08-26,2024-05-27,Maldives,5,38466,10925,27541,Debit Card,Ravi Kumar,Bengaluru,Off-Peak,4.8
+BK0087,Customer_087,46-60,Bengaluru,Combo,2024-06-03,2024-04-11,Ooty,4,60615,8195,52420,Credit Card,Priya S,Bengaluru,Off-Peak,3.3
+BK0088,Customer_088,46-60,Bengaluru,Combo,2024-05-20,2024-01-05,Singapore,6,43696,359,43337,Credit Card,Kiran Das,Bengaluru,Off-Peak,4.3
+BK0089,Customer_089,26-35,Bengaluru,Flight,2024-11-13,2024-05-08,Maldives,6,51179,3588,47591,Debit Card,Deepa Nair,Bengaluru,Peak,4.6
+BK0090,Customer_090,60+,Mumbai,Hotel,2024-07-05,2024-03-08,Kerala,3,62779,1093,61686,UPI,Deepa Nair,Mumbai,Off-Peak,1.7
+BK0091,Customer_091,60+,Chennai,Combo,2024-05-19,2024-03-25,Andaman,4,52953,8697,44256,UPI,Deepa Nair,Chennai,Off-Peak,4.2
+BK0092,Customer_092,26-35,Ahmedabad,Flight,2024-12-12,2024-12-11,Ooty,5,23449,6178,17271,UPI,Ravi Kumar,Ahmedabad,Off-Peak,1.1
+BK0093,Customer_093,36-45,Delhi,Hotel,2024-10-26,2024-07-14,Maldives,3,53311,11023,42288,Credit Card,Deepa Nair,Delhi,Peak,2.9
+BK0094,Customer_094,46-60,Hyderabad,Combo,2024-12-24,2024-06-03,Maldives,4,34015,1035,32980,Credit Card,Priya S,Hyderabad,Peak,4.8
+BK0095,Customer_095,26-35,Bengaluru,Hotel,2024-10-02,2024-03-10,Ooty,4,20220,796,19424,UPI,Deepa Nair,Bengaluru,Off-Peak,3.3
+BK0096,Customer_096,60+,Chennai,Hotel,2024-07-27,2024-05-23,Goa,6,17978,4008,13970,UPI,Priya S,Chennai,Off-Peak,2.8
+BK0097,Customer_097,60+,Kolkata,Hotel,2024-11-26,2024-07-02,Goa,4,18022,3009,15013,UPI,Priya S,Kolkata,Peak,4.8
+BK0098,Customer_098,18-25,Ahmedabad,Flight,2024-01-26,2024-06-19,Manali,2,32801,9783,23018,Cash,Priya S,Ahmedabad,Peak,4.3
+BK0099,Customer_099,36-45,Kolkata,Combo,2024-03-16,2024-11-01,Goa,3,33305,3817,29488,Debit Card,Priya S,Kolkata,Off-Peak,4.2
+BK0100,Customer_100,18-25,Delhi,Combo,2024-07-02,2024-05-01,Singapore,3,8379,539,7840,Credit Card,Priya S,Delhi,Off-Peak,1.2
+BK0101,Customer_101,46-60,Pune,Combo,2024-08-17,2024-07-04,Dubai,5,19896,520,19376,Credit Card,Sunita Rao,Pune,Peak,4.8
+BK0102,Customer_102,46-60,Mumbai,Combo,2024-11-25,2024-01-16,Goa,4,73347,9883,63464,Net Banking,Sunita Rao,Mumbai,Peak,3
+BK0103,Customer_103,60+,Ahmedabad,Flight,2024-03-16,2024-02-03,Rajasthan,3,15589,2638,12951,Cash,Deepa Nair,Ahmedabad,Off-Peak,2.5
+BK0104,Customer_104,46-60,Bengaluru,Hotel,2024-02-20,2024-12-25,Kerala,6,71263,19838,51425,Cash,Deepa Nair,Bengaluru,Peak,2.7
+BK0105,Customer_105,46-60,Kolkata,Hotel,2024-07-23,2024-07-31,Bangkok,1,49424,13556,35868,UPI,Sunita Rao,Kolkata,Off-Peak,3.7
+BK0106,Customer_106,18-25,Hyderabad,Flight,2024-02-13,2024-02-17,Ooty,1,67163,2199,64964,UPI,Priya S,Hyderabad,Peak,3.3
+BK0107,Customer_107,36-45,Hyderabad,Combo,2024-12-06,2024-08-04,Bangkok,1,21021,3365,17656,UPI,Kiran Das,Hyderabad,Off-Peak,2.4
+BK0108,Customer_108,18-25,Kolkata,Flight,2024-06-28,2024-10-11,Leh,1,68201,7348,60853,UPI,Kiran Das,Kolkata,Peak,4.2
+BK0109,Customer_109,26-35,Mumbai,Combo,2024-05-19,2024-12-25,Andaman,3,40054,474,39580,UPI,Ravi Kumar,Mumbai,Peak,4.5
+BK0110,Customer_110,18-25,Pune,Flight,2024-02-16,2024-09-28,Manali,4,23595,6070,17525,Net Banking,Sunita Rao,Pune,Off-Peak,1.6
+BK0111,Customer_111,60+,Bengaluru,Combo,2024-11-01,2024-02-13,Goa,2,47517,12727,34790,Debit Card,Kiran Das,Bengaluru,Peak,3.7
+BK0112,Customer_112,60+,Bengaluru,Hotel,2024-08-14,2024-07-31,Andaman,2,60576,15914,44662,Cash,Ravi Kumar,Bengaluru,Off-Peak,2.7
+BK0113,Customer_113,36-45,Bengaluru,Combo,2024-01-24,2024-04-22,Ooty,5,68783,17266,51517,Credit Card,Ravi Kumar,Bengaluru,Peak,2.2
+BK0114,Customer_114,36-45,Kolkata,Flight,2024-03-02,2024-01-04,Shimla,6,38491,4742,33749,Net Banking,Priya S,Kolkata,Peak,2.5
+BK0115,Customer_115,36-45,Kolkata,Combo,2024-02-06,2024-07-22,Bangkok,1,78233,21890,56343,Net Banking,Ravi Kumar,Kolkata,Off-Peak,4.7
+BK0116,Customer_116,46-60,Hyderabad,Combo,2024-05-28,2024-02-28,Ooty,1,61267,13252,48015,UPI,Priya S,Hyderabad,Off-Peak,4.3
+BK0117,Customer_117,26-35,Hyderabad,Flight,2024-08-11,2024-10-28,Ooty,5,62240,3468,58772,Credit Card,Sunita Rao,Hyderabad,Off-Peak,4
+BK0118,Customer_118,60+,Kolkata,Hotel,2024-11-20,2024-02-28,Dubai,5,27037,625,26412,Debit Card,Arjun Mehta,Kolkata,Off-Peak,3.9
+BK0119,Customer_119,36-45,Chennai,Flight,2024-04-11,2024-03-29,Singapore,2,18474,1199,17275,Credit Card,Priya S,Chennai,Off-Peak,2.9
+BK0120,Customer_120,60+,Ahmedabad,Combo,2024-06-14,2024-11-17,Leh,2,78989,21069,57920,Net Banking,Ravi Kumar,Ahmedabad,Off-Peak,2.8
+BK0121,Customer_121,60+,Bengaluru,Hotel,2024-02-07,2024-06-07,Shimla,4,12362,1441,10921,Credit Card,Ravi Kumar,Bengaluru,Off-Peak,4.3
+BK0122,Customer_122,60+,Delhi,Combo,2024-09-16,2024-07-15,Shimla,5,16835,5038,11797,Cash,Deepa Nair,Delhi,Peak,2.8
+BK0123,Customer_123,26-35,Kolkata,Hotel,2024-02-01,2024-08-18,Kerala,3,67341,16428,50913,Credit Card,Kiran Das,Kolkata,Peak,1.2
+BK0124,Customer_124,60+,Ahmedabad,Hotel,2024-03-22,2024-07-05,Leh,3,73690,17129,56561,Net Banking,Sunita Rao,Ahmedabad,Off-Peak,3.7
+BK0125,Customer_125,36-45,Mumbai,Combo,2024-02-18,2024-10-12,Maldives,4,48863,1079,47784,UPI,Arjun Mehta,Mumbai,Peak,2.3
+BK0126,Customer_126,46-60,Chennai,Hotel,2024-03-07,2024-10-31,Bangkok,1,45662,10748,34914,UPI,Kiran Das,Chennai,Off-Peak,3.6
+BK0127,Customer_127,46-60,Hyderabad,Flight,2024-09-17,2024-07-04,Goa,3,73995,3062,70933,UPI,Priya S,Hyderabad,Peak,2.4
+BK0128,Customer_128,26-35,Ahmedabad,Flight,2024-02-09,2024-05-31,Kerala,5,34693,2253,32440,Cash,Deepa Nair,Ahmedabad,Peak,3.6
+BK0129,Customer_129,26-35,Chennai,Combo,2024-04-02,2024-12-20,Singapore,2,54377,2527,51850,Net Banking,Ravi Kumar,Chennai,Off-Peak,2.5
+BK0130,Customer_130,46-60,Kolkata,Hotel,2024-04-29,2024-09-30,Manali,3,42346,12327,30019,Net Banking,Priya S,Kolkata,Off-Peak,3.7
+BK0131,Customer_131,60+,Ahmedabad,Hotel,2024-09-27,2024-08-02,Rajasthan,2,41932,6256,35676,Cash,Priya S,Ahmedabad,Off-Peak,1.2
+BK0132,Customer_132,60+,Ahmedabad,Hotel,2024-03-04,2024-05-25,Kerala,2,77684,3361,74323,UPI,Sunita Rao,Ahmedabad,Peak,4.3
+BK0133,Customer_133,18-25,Delhi,Flight,2024-07-31,2024-01-28,Ooty,5,64130,11455,52675,UPI,Priya S,Delhi,Off-Peak,5
+BK0134,Customer_134,18-25,Hyderabad,Flight,2024-11-28,2024-06-20,Rajasthan,2,8694,1305,7389,Credit Card,Arjun Mehta,Hyderabad,Off-Peak,3.8
+BK0135,Customer_135,60+,Chennai,Combo,2024-01-03,2024-02-10,Goa,3,66487,14699,51788,Debit Card,Priya S,Chennai,Off-Peak,1.4
+BK0136,Customer_136,18-25,Bengaluru,Flight,2024-05-02,2024-08-02,Maldives,5,44472,1996,42476,Net Banking,Ravi Kumar,Bengaluru,Peak,4.3
+BK0137,Customer_137,60+,Ahmedabad,Combo,2024-10-21,2024-05-03,Bangkok,2,75261,538,74723,UPI,Sunita Rao,Ahmedabad,Peak,3.5
+BK0138,Customer_138,18-25,Kolkata,Combo,2024-09-25,2024-07-03,Kerala,5,59600,6137,53463,Cash,Kiran Das,Kolkata,Peak,2.6
+BK0139,Customer_139,36-45,Ahmedabad,Flight,2024-01-09,2024-07-01,Kerala,3,55709,12232,43477,Debit Card,Deepa Nair,Ahmedabad,Peak,4.1
+BK0140,Customer_140,60+,Hyderabad,Flight,2024-06-22,2024-11-25,Rajasthan,6,10811,1443,9368,Net Banking,Deepa Nair,Hyderabad,Off-Peak,3.5
+BK0141,Customer_141,36-45,Chennai,Flight,2024-04-13,2024-01-23,Manali,1,64988,1211,63777,UPI,Arjun Mehta,Chennai,Off-Peak,5
+BK0142,Customer_142,26-35,Ahmedabad,Hotel,2024-05-26,2024-07-01,Goa,6,9799,2649,7150,UPI,Arjun Mehta,Ahmedabad,Peak,4.2
+BK0143,Customer_143,36-45,Pune,Hotel,2024-04-05,2024-09-11,Bangkok,4,62637,12669,49968,UPI,Kiran Das,Pune,Off-Peak,4.2
+BK0144,Customer_144,60+,Pune,Flight,2024-05-30,2024-06-13,Kerala,1,61440,5913,55527,UPI,Deepa Nair,Pune,Off-Peak,2.2
+BK0145,Customer_145,46-60,Pune,Flight,2024-01-22,2024-06-29,Singapore,4,63183,11519,51664,UPI,Deepa Nair,Pune,Peak,1.3
+BK0146,Customer_146,18-25,Pune,Hotel,2024-03-14,2024-11-07,Maldives,4,72251,5242,67009,Credit Card,Priya S,Pune,Peak,1.9
+BK0147,Customer_147,60+,Hyderabad,Hotel,2024-03-19,2024-12-13,Shimla,3,55181,1061,54120,UPI,Sunita Rao,Hyderabad,Peak,3.3
+BK0148,Customer_148,36-45,Hyderabad,Hotel,2024-05-07,2024-02-28,Goa,6,46207,10642,35565,Debit Card,Sunita Rao,Hyderabad,Off-Peak,4.7
+BK0149,Customer_149,46-60,Delhi,Hotel,2024-04-19,2024-11-09,Andaman,6,39116,11534,27582,Net Banking,Priya S,Delhi,Peak,1.5
+BK0150,Customer_150,18-25,Delhi,Hotel,2024-12-15,2024-06-12,Maldives,3,27630,7292,20338,Credit Card,Kiran Das,Delhi,Off-Peak,4.6
+BK0151,Customer_151,60+,Chennai,Combo,2024-04-24,2024-03-03,Manali,2,27818,5922,21896,Debit Card,Sunita Rao,Chennai,Peak,2.4
+BK0152,Customer_152,60+,Hyderabad,Hotel,2024-02-14,2024-02-03,Andaman,4,77305,4252,73053,Net Banking,Kiran Das,Hyderabad,Off-Peak,4.1
+BK0153,Customer_153,18-25,Delhi,Flight,2024-08-18,2024-08-26,Maldives,5,46553,10524,36029,UPI,Priya S,Delhi,Peak,4.1
+BK0154,Customer_154,18-25,Chennai,Hotel,2024-09-22,2024-03-19,Andaman,2,70911,1815,69096,Debit Card,Arjun Mehta,Chennai,Peak,2.4
+BK0155,Customer_155,60+,Bengaluru,Flight,2024-05-20,2024-03-05,Maldives,3,37847,3216,34631,Cash,Kiran Das,Bengaluru,Peak,3
+BK0156,Customer_156,60+,Chennai,Combo,2024-11-05,2024-06-21,Singapore,1,25210,1402,23808,Credit Card,Ravi Kumar,Chennai,Peak,4.8
+BK0157,Customer_157,46-60,Bengaluru,Combo,2024-11-12,2024-11-23,Goa,4,32631,9373,23258,Cash,Arjun Mehta,Bengaluru,Off-Peak,2.9
+BK0158,Customer_158,18-25,Pune,Hotel,2024-03-21,2024-08-13,Ooty,4,64446,2391,62055,Net Banking,Priya S,Pune,Off-Peak,3.4
+BK0159,Customer_159,36-45,Hyderabad,Combo,2024-07-23,2024-03-07,Leh,5,46853,12029,34824,Cash,Ravi Kumar,Hyderabad,Off-Peak,2
+BK0160,Customer_160,26-35,Delhi,Hotel,2024-02-19,2024-01-26,Andaman,4,63929,8123,55806,Cash,Sunita Rao,Delhi,Peak,4.9
+BK0161,Customer_161,26-35,Chennai,Hotel,2024-09-12,2024-09-20,Shimla,4,45988,3110,42878,UPI,Sunita Rao,Chennai,Peak,1.4
+BK0162,Customer_162,26-35,Pune,Combo,2024-10-25,2024-06-29,Goa,1,64930,7888,57042,UPI,Sunita Rao,Pune,Off-Peak,2.1
+BK0163,Customer_163,36-45,Mumbai,Flight,2024-07-06,2024-07-25,Leh,1,61482,4388,57094,Net Banking,Ravi Kumar,Mumbai,Peak,2.5
+BK0164,Customer_164,46-60,Bengaluru,Flight,2024-10-08,2024-05-23,Singapore,6,55639,16523,39116,Cash,Ravi Kumar,Bengaluru,Peak,4.9
+BK0165,Customer_165,36-45,Pune,Hotel,2024-03-14,2024-04-11,Singapore,5,49444,9139,40305,Net Banking,Kiran Das,Pune,Peak,1.2
+BK0166,Customer_166,46-60,Chennai,Combo,2024-09-22,2024-08-21,Rajasthan,5,48652,13172,35480,Cash,Priya S,Chennai,Off-Peak,4.7
+BK0167,Customer_167,60+,Hyderabad,Flight,2024-06-21,2024-09-16,Dubai,5,56505,9805,46700,Net Banking,Deepa Nair,Hyderabad,Off-Peak,2.9
+BK0168,Customer_168,18-25,Mumbai,Hotel,2024-08-01,2024-10-25,Andaman,6,48416,11039,37377,Credit Card,Kiran Das,Mumbai,Off-Peak,2.1
+BK0169,Customer_169,46-60,Kolkata,Combo,2024-03-28,2024-09-25,Maldives,6,11731,2390,9341,Cash,Sunita Rao,Kolkata,Peak,4.3
+BK0170,Customer_170,18-25,Kolkata,Flight,2024-08-13,2024-06-09,Ooty,2,19404,1562,17842,Net Banking,Deepa Nair,Kolkata,Peak,2.6
+BK0171,Customer_171,26-35,Ahmedabad,Combo,2024-09-22,2024-04-16,Dubai,3,13163,2890,10273,Net Banking,Kiran Das,Ahmedabad,Off-Peak,2.3
+BK0172,Customer_172,60+,Chennai,Hotel,2024-06-30,2024-12-12,Bangkok,6,74878,11217,63661,UPI,Kiran Das,Chennai,Off-Peak,1.8
+BK0173,Customer_173,26-35,Kolkata,Hotel,2024-06-01,2024-05-27,Bangkok,2,78149,9781,68368,Net Banking,Arjun Mehta,Kolkata,Off-Peak,2.4
+BK0174,Customer_174,60+,Bengaluru,Hotel,2024-07-13,2024-07-21,Leh,2,20974,4697,16277,UPI,Ravi Kumar,Bengaluru,Off-Peak,4.8
+BK0175,Customer_175,46-60,Delhi,Hotel,2024-04-19,2024-04-13,Dubai,3,62983,8403,54580,Cash,Deepa Nair,Delhi,Off-Peak,1.5
+BK0176,Customer_176,60+,Kolkata,Flight,2024-04-25,2024-11-22,Manali,1,11653,2743,8910,Credit Card,Sunita Rao,Kolkata,Off-Peak,3.9
+BK0177,Customer_177,60+,Delhi,Combo,2024-03-21,2024-07-27,Maldives,4,23018,42,22976,Net Banking,Deepa Nair,Delhi,Peak,4
+BK0178,Customer_178,18-25,Bengaluru,Hotel,2024-02-15,2024-11-29,Singapore,2,42409,10582,31827,Cash,Deepa Nair,Bengaluru,Peak,4.7
+BK0179,Customer_179,46-60,Chennai,Hotel,2024-09-10,2024-04-05,Bangkok,3,28040,595,27445,Credit Card,Ravi Kumar,Chennai,Off-Peak,3.3
+BK0180,Customer_180,60+,Delhi,Hotel,2024-09-25,2024-09-09,Rajasthan,5,42298,7444,34854,Net Banking,Arjun Mehta,Delhi,Peak,4.2
+BK0181,Customer_181,26-35,Hyderabad,Flight,2024-01-08,2024-06-21,Andaman,5,65150,8430,56720,Debit Card,Priya S,Hyderabad,Off-Peak,4.3
+BK0182,Customer_182,26-35,Hyderabad,Flight,2024-03-12,2024-09-01,Leh,2,57538,3125,54413,Credit Card,Arjun Mehta,Hyderabad,Off-Peak,1.9
+BK0183,Customer_183,60+,Bengaluru,Hotel,2024-01-06,2024-05-13,Maldives,3,44576,9543,35033,Debit Card,Ravi Kumar,Bengaluru,Peak,2.9
+BK0184,Customer_184,18-25,Chennai,Hotel,2024-11-23,2024-05-31,Leh,5,70866,10190,60676,Debit Card,Priya S,Chennai,Peak,2.9
+BK0185,Customer_185,60+,Ahmedabad,Combo,2024-08-29,2024-10-02,Maldives,2,53971,6813,47158,Debit Card,Deepa Nair,Ahmedabad,Peak,3.1
+BK0186,Customer_186,18-25,Hyderabad,Flight,2024-10-07,2024-09-15,Manali,5,78946,3676,75270,Cash,Priya S,Hyderabad,Peak,2.3
+BK0187,Customer_187,46-60,Ahmedabad,Flight,2024-02-16,2024-09-18,Shimla,1,31922,9554,22368,Net Banking,Priya S,Ahmedabad,Off-Peak,2.8
+BK0188,Customer_188,18-25,Mumbai,Combo,2024-07-21,2024-05-10,Goa,6,65604,10098,55506,Debit Card,Kiran Das,Mumbai,Peak,1.2
+BK0189,Customer_189,18-25,Hyderabad,Combo,2024-02-05,2024-08-29,Goa,3,13357,2216,11141,Net Banking,Priya S,Hyderabad,Peak,4.1
+BK0190,Customer_190,46-60,Pune,Hotel,2024-07-11,2024-02-11,Maldives,6,55132,14697,40435,Cash,Priya S,Pune,Off-Peak,1.5
+BK0191,Customer_191,26-35,Pune,Combo,2024-01-02,2024-01-12,Andaman,4,21691,5962,15729,Cash,Sunita Rao,Pune,Off-Peak,4.3
+BK0192,Customer_192,36-45,Kolkata,Hotel,2024-04-06,2024-02-27,Goa,6,50371,2541,47830,Net Banking,Kiran Das,Kolkata,Peak,2
+BK0193,Customer_193,60+,Delhi,Flight,2024-12-10,2024-12-26,Goa,2,9400,1828,7572,Credit Card,Sunita Rao,Delhi,Off-Peak,1.9
+BK0194,Customer_194,36-45,Kolkata,Flight,2024-04-29,2024-10-21,Leh,5,23367,4127,19240,Cash,Deepa Nair,Kolkata,Off-Peak,1.9
+BK0195,Customer_195,46-60,Chennai,Combo,2024-06-02,2024-05-20,Goa,5,73321,7243,66078,Cash,Deepa Nair,Chennai,Peak,3.5
+BK0196,Customer_196,36-45,Pune,Combo,2024-11-25,2024-12-09,Ooty,5,69962,1536,68426,UPI,Deepa Nair,Pune,Off-Peak,2.6
+BK0197,Customer_197,26-35,Bengaluru,Hotel,2024-04-25,2024-06-02,Bangkok,2,29101,7758,21343,Net Banking,Ravi Kumar,Bengaluru,Off-Peak,4.9
+BK0198,Customer_198,26-35,Chennai,Hotel,2024-06-18,2024-11-27,Kerala,4,36831,4177,32654,UPI,Ravi Kumar,Chennai,Peak,1.2
+BK0199,Customer_199,26-35,Pune,Combo,2024-10-27,2024-12-09,Dubai,2,10183,298,9885,Net Banking,Priya S,Pune,Off-Peak,2.2
+BK0200,Customer_200,46-60,Mumbai,Flight,2024-05-04,2024-12-22,Singapore,6,29906,1922,27984,Debit Card,Sunita Rao,Mumbai,Peak,3.2
